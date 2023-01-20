@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "JsonOomTest": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_gcServer": "1",
+        "DOTNET_GCHeapHardLimit": "10000000"
+      }
+    }
+  }
+}
